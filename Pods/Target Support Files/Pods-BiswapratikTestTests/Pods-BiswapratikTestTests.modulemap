@@ -1,0 +1,6 @@
+framework module Pods_BiswapratikTestTests {
+  umbrella header "Pods-BiswapratikTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
